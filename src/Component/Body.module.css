@@ -1,0 +1,15 @@
+.dash{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.button{
+    display: flex;
+    gap : 4rem;
+    align-items: center;
+}
+
+.button> button{
+    padding: 10px;
+}
+ 
